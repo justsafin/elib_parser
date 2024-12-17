@@ -1,0 +1,3 @@
+/data/journals/*
+!.gitkeep
+*.log
